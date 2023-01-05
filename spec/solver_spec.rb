@@ -16,13 +16,13 @@ describe Solver do
     end
 
     it 'should raise an exception when num is less than 0' do
-      expect{@solver.factorial(-1)}.to raise_error(StandardError)
+      expect { @solver.factorial(-1) }.to raise_error(StandardError)
     end
   end
 
   describe '#reverse' do
     it 'should return "olleh"' do
-      expect(@solver.reverse('hello')).to eq "olleh"
+      expect(@solver.reverse('hello')).to eq 'olleh'
     end
   end
 
