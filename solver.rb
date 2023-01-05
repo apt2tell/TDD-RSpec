@@ -1,3 +1,3 @@
 # Solver class
-class Solver 
+class Solver
 end
