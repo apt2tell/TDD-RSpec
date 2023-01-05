@@ -25,4 +25,10 @@ describe Solver do
       expect(@solver.reverse('hello')).to eq "olleh"
     end
   end
+
+  describe '#fizzbuzz' do
+    it 'returns "fizz" when num is divisible by 3' do
+      expect(@solver.fizzbuzz(9)).to eq 'fizz'
+    end
+  end
 end
