@@ -38,5 +38,9 @@ describe Solver do
     it 'returns "fizzbuzz" when num is divisible by 3 and 5' do
       expect(@solver.fizzbuzz(15)).to eq 'fizzbuzz'
     end
+
+    it 'should return "7"' do
+      expect(@solver.fizzbuzz(7)).to eq '7'
+    end
   end
 end
