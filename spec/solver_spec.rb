@@ -14,5 +14,9 @@ describe Solver do
     it 'should return 720 when the number 6' do
       expect(@solver.factorial(6)).to eq 720
     end
+
+    it 'should raise an exception when num is less than 0' do
+      expect{@solver.factorial(-1)}.to raise_error(StandardError)
+    end
   end
 end
