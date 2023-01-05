@@ -9,4 +9,8 @@ class Solver
       raise 'Not defined for negative integer'
     end
   end
+
+  def reverse(str)
+    str.reverse
+  end
 end
