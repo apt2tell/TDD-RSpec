@@ -61,18 +61,18 @@ No available yet
 ### Prerequisites
 
 <!-- Setup GitHub. -->
-<!-- Install [node](https://nodejs.org/en/) -->
+<!-- Install [node](https://ruby.org/en/) -->
 
 Windows, Mac, Linux
 
 <!-- ### Setup -->
-<!-- #### Set Up a PostgreSQL Database on Windows -->
+<!-- #### Set Up a Ruby on Windows -->
 
-- Download and install a PostgreSQL server.
-- Add the PostgreSQL bin directory path to the PATH environmental variable.
-- Open the psql command-line tool:
-- Run a CREATE DATABASE command to create a new database.
-- Connect to the new database using the command: \c databaseName.
+- Download and install Ruby.
+- Add the ruby bin directory path to the PATH environmental variable.
+- Open command-line tool:
+- cd directory_name
+- open file_name.rb
 
 ### Usage
 
@@ -89,8 +89,8 @@ Run this from the root folder at the command prompt.
 👤 **Okechukwu Muokwugwo**
 
 - GitHub: [Okechukwu-muokwugwo](https://github.com/Okechukwu-muokwugwo)
-- Twitter: [Okechukwu-muokwugwo](https://twitter.com/Cest_Baayeh)
-- LinkedIn: [Okechukwu-muokwugwo](https://linkedin.com/in/kabaayeh)
+- Twitter: [@excel4eva](https://twitter.com/excel4eva)
+- LinkedIn: [okeimuokwugwo](https://linkedin.com/in/okeimuokwugwo)
 
 👤 **Baayeh Kwasi**
 
