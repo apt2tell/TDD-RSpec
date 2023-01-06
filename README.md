@@ -20,7 +20,7 @@
 
 # 📖 [Test Driven Development Approach] <a name="about-project"></a>
 
-<p>In this project we implement a class with some methods using test-driven development (TDD).</p>
+<p>In this project we implemented `Solver`class with `factorial` and `fizzbuzz` methods, but we do it by doing test-driven development (TDD). Remember that the idea is to write tests first and then the code.</p>
 
 ### Tech Stack <a name="tech-stack"></a>
 
